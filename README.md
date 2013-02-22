@@ -1,7 +1,7 @@
 timestamp.js
 ============
 
-As a coder, you dealing with UNIX timestamp everyday. 
+As a coder, you dealing with UNIX timestamps everyday. 
 
 Sometime you need the current timestamp, and you have to run a short program like this:
 
